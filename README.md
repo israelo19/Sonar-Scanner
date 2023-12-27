@@ -1,6 +1,10 @@
 # Sonar-Scanner
 This is an Arduino project that uses an ultrasonic sensor, to detect objects.
 ## Details
-<p>A model of an underwater sound navigation and ranging sensor, I created a version that could be used for everyday monitoring. Whether underwater or on your desk, it detects an object with the ultrasonic sensort and produces a ping, when an object is located. </p>
+<p>The Sonar-Scanner project is built upon the fundamental principle of sonar technology, enabling the detection of objects through the emission and reception of ultrasonic waves. The Arduino microcontroller processes the signals from the ultrasonic sensor, triggering a response when an object is identified within its range. This implementation offers a simple and effective means of monitoring objects in various environments.
+
+Whether you're exploring the depths of the ocean or monitoring the security of your desk space, the Sonar-Scanner provides a reliable and adaptable solution for object detection. The project serves as a creative blend of sonar technology and everyday usability, offering insights into the potential applications of ultrasonic sensors beyond traditional use cases.
+A bridge to mainstream use of sonar to the common man.
+ </p>
 
 ## Picture
