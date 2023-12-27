@@ -7,4 +7,6 @@ Whether you're exploring the depths of the ocean or monitoring the security of y
 A bridge to mainstream use of sonar to the common man.
  </p>
 
+ <p>I then using the Processing software to visualize it</p>
+
 ## Picture
